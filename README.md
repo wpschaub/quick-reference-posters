@@ -1,5 +1,5 @@
 
-# Quick-reference-posters
+# Quick Reference Posters
 
 # Introduction
 
@@ -9,16 +9,16 @@ Information and views expressed in this content, including URL and other Interne
 
 # Materials
 
-|TOPIC| TOPIC | POSTER | SOURCE |
-|-----|-------|--------|--------|
-|Azure|Architecting Microsoft Azure Solutions|[pdf](src/azure/architecting-microsoft-azure-solutions.pdf), [pptx](src/azure/architecting-microsoft-azure-solutions.pptx)|Microsoft Azure Documentation|
-|DevOps Mindset Essentials| DevOps Getting Started|[pdf](src/devops-mindset-essentials/devops-getting-started.pdf), [pptx](src/devOps-mindset-essentials/devops-getting-started.pptx)|[DevOps Mindset Essentials](https://www.github.com/wpschaub/devops-mindset-essentials/devops-mindset-essentials/README.md)| 
-|DevOps Mindset Essentials| DevOps Habits|[pdf](src/devops-mindset-essentials/devops-habits.pdf), [pptx](src/devops-mindset-essentials/devops-habits.pptx)|[DevOps Mindset Essentials](https://www.github.com/wpschaub/devOps-mindset-essentials/devops-mindset-essentials/README.md)| 
-|DevOps Mindset Essentials| DevOps Practices|[pdf](src/devops-mindset-essentials/devops-practices.pdf), [pptx](src/devops-mindset-essentials/devops-practices.pptx)|[DevOps Mindset Essentials](https://www.github.com/wpschaub/devOps-mindset-essentials/devops-mindset-essentials/README.md)| 
-|DevOps Mindset Essentials| DevOps Technology|[pdf](src/devops-mindset-essentials/devops-technology.pdf), [pptx](src/devops-mindset-essentials/devops-technology.pptx)|[DevOps Mindset Essentials](https://www.github.com/wpschaub/devOps-mindset-essentials/devops-mindset-essentials/README.md)| 
-|Micosoft DevOps Journey|DevOps @ Microsoft Habits|[pdf](src/microsoft-journey/devops-habits.pdf)|[DevOps @ Microsoft](https://aka.ms/devops)|
-|Micosoft DevOps Journey|DevOps @ Microsoft Planning|[pdf](src/microsoft-journey/devops-planning.pdf)|[DevOps @ Microsoft](https://aka.ms/devops)|
-|Micosoft DevOps Journey|DevOps @ Microsoft Practices|[pdf](src/microsoft-journey/devops-practices.pdf)|[DevOps @ Microsoft](https://aka.ms/devops)|
+|TOPIC| TOPIC | POSTER | SOURCE | NOTE |
+|-----|-------|--------|--------|------|
+|Azure|Architecting Microsoft Azure Solutions|[pdf](src/azure/architecting-microsoft-azure-solutions.pdf), [pptx](src/azure/architecting-microsoft-azure-solutions.pptx)|Microsoft Azure Documentation| **UNDER CONSTRUCTION**|
+|DevOps Mindset Essentials| DevOps Getting Started|[pdf](src/devops-mindset-essentials/devops-getting-started.pdf), [pptx](src/devOps-mindset-essentials/devops-getting-started.pptx)|[DevOps Mindset Essentials](https://www.github.com/wpschaub/devops-mindset-essentials/devops-mindset-essentials/README.md)||
+|DevOps Mindset Essentials| DevOps Habits|[pdf](src/devops-mindset-essentials/devops-habits.pdf), [pptx](src/devops-mindset-essentials/devops-habits.pptx)|[DevOps Mindset Essentials](https://www.github.com/wpschaub/devOps-mindset-essentials/devops-mindset-essentials/README.md)||
+|DevOps Mindset Essentials| DevOps Practices|[pdf](src/devops-mindset-essentials/devops-practices.pdf), [pptx](src/devops-mindset-essentials/devops-practices.pptx)|[DevOps Mindset Essentials](https://www.github.com/wpschaub/devOps-mindset-essentials/devops-mindset-essentials/README.md)||
+|DevOps Mindset Essentials| DevOps Technology|[pdf](src/devops-mindset-essentials/devops-technology.pdf), [pptx](src/devops-mindset-essentials/devops-technology.pptx)|[DevOps Mindset Essentials](https://www.github.com/wpschaub/devOps-mindset-essentials/devops-mindset-essentials/README.md)||
+|Micosoft DevOps Journey|DevOps @ Microsoft Habits|[pdf](src/microsoft-journey/devops-habits.pdf)|[DevOps @ Microsoft](https://aka.ms/devops)||
+|Micosoft DevOps Journey|DevOps @ Microsoft Planning|[pdf](src/microsoft-journey/devops-planning.pdf)|[DevOps @ Microsoft](https://aka.ms/devops)||
+|Micosoft DevOps Journey|DevOps @ Microsoft Practices|[pdf](src/microsoft-journey/devops-practices.pdf)|[DevOps @ Microsoft](https://aka.ms/devops)||
 
 > Recommended guidelines to print these posters:
 > - Paper: (1) Satin 160 gsm (Standard) (White) - All Pages 
