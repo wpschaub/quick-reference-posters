@@ -32,7 +32,7 @@ The following sources have been used to create the content:
 - [DevOps @ Microsoft Story](https://aka.ms/devops)
 - [DevOps Assessment](https://aka.ms/devopsassessment)
 - [DevOps Mindset Essentials](https://www.github.com/wpschaub/devOps-mindset-essentials/devops-mindset-essentials/README.md)
-- [Packt AMSS Exam Gude 70-535](https://www.packtpub.com/virtualization-and-cloud/architecting-microsoft-azure-solutions-exam-guide-70-535)
+- [Packt AMSS Exam Guide 70-535](https://www.packtpub.com/virtualization-and-cloud/architecting-microsoft-azure-solutions-exam-guide-70-535)
 - [Get Started with Azure](https://docs.microsoft.com/en-us/azure/)
 - [The Science of Lean Software and DevOps ACCELERATE](https://lccn.loc.gov/2018007766) book, by Nicole Forsgen, Jez Humble, Gene Kim 
 
